@@ -7,6 +7,7 @@ const List = (head) => (tail) => {
 
 const head = (list) => 
     list.head
+    
 const tail = (list) => 
     list.tail
 
